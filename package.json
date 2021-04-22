@@ -1,7 +1,7 @@
 {
   "name": "wbs-primer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Primer for WBS Coding School",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
